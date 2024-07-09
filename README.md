@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishalikhar
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ...fullstack,DSA
+- 👀 I’m interested in ... Data Analytics, web Development
+- 🌱 I’m currently learning ...SQL,Dat visualisation,DSA
 - 📫 How to reach me ...linkedin:VishalLikhar
 
 <!---
